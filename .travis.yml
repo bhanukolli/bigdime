@@ -3,6 +3,6 @@ language: java
 jdk:
   - openjdk7
 script:
-  mvn -X clean test -Pjavadoc 
+  mvn clean test -Pjavadoc 
 
 # StubHub 
